@@ -1,7 +1,7 @@
 ---
 title: Shanghai
 author: zhihongli
-description: hello shanghai 2022
+description: hello shanghai 202211290900
 uid: zhl-docs-2-shanghai
 ms.search.industry: Retail
 audience: Application User, Developer
@@ -12,6 +12,4 @@ Hello Shanghai!
 
 Shanghai is one of the four direct-administered municipalities of the People's Republic of China.The city is located on the southern estuary of the Yangtze River, with the Huangpu River flowing through it. With a population of 24.87 million as of 2020, Shanghai is the most populous urban area in China and the most populous city proper in the world. 
 
-Welcome to Shanghai. 20221128 have a nice day.
-Welcome to Shanghai. 20221128 have a nice day.
-Welcome to Shanghai. 20221128 have a nice day.
+Welcome to Shanghai. 202211290900 have a nice day.
