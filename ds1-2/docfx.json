@@ -41,7 +41,11 @@
     "globalMetadata": {
       "breadcrumb_path": "/ds1-2/breadcrumb/toc.json",
       "extendBreadcrumb": true,
-      "feedback_system": "None"
+      "feedback_system": "None",
+      "permissioned-groups": [
+        "permissioned-group-1",
+        "permissioned-group-2"
+      ]
     },
     "fileMetadata": {},
     "template": [],
